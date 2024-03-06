@@ -1,0 +1,8 @@
+  File "main.py", line 1
+    py -m pip install Django==5.0.3
+          ^
+SyntaxError: invalid syntax
+
+
+** Process exited - Return Code: 1 **
+Press Enter to exit terminal
